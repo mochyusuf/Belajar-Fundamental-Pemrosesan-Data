@@ -1,0 +1,11 @@
+# Cara menjalankan skrip ETL pipeline
+python main.py
+
+# Cara menjalankan unit test pada folder tests
+python -m pytest tests
+
+# Cara menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Url Google Sheets:
+https://docs.google..com/sheets
